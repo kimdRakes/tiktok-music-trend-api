@@ -1,0 +1,9 @@
+{
+  "region": "US",
+  "limit": 50,
+  "output_jsonl": "data/out.jsonl",
+  "output_csv": "data/out.csv",
+  "mock": true,
+  "endpoint": null,
+  "notes": "Copy this file to settings.json and adjust. If endpoint is provided, mock can be set to false to use live data."
+}
