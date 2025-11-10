@@ -1,0 +1,48 @@
+[
+  {
+    "artists": null,
+    "author": "Happy New Year",
+    "author_position": null,
+    "cover_large": {
+      "height": 720,
+      "uri": "tos-alisg-v-2774/13d12608283d48109381420cd82f7403",
+      "url_list": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/13d12608283d48109381420cd82f7403~720x720.jpeg?lk3s=08d74b56&x-expires=1732656955&x-signature=N73ScRM46o6gGh31211nxFrZiTA%3D"
+      ],
+      "url_prefix": null,
+      "width": 720
+    },
+    "cover_medium": {
+      "height": 720,
+      "uri": "tos-alisg-v-2774/13d12608283d48109381420cd82f7403",
+      "url_list": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/13d12608283d48109381420cd82f7403~200x200.jpeg?lk3s=08d74b56&x-expires=1732656955&x-signature=F5QyimvV8P7EYYBb7zGNOejmDUY%3D"
+      ],
+      "url_prefix": null,
+      "width": 720
+    },
+    "cover_thumb": {
+      "height": 720,
+      "uri": "tos-alisg-v-2774/13d12608283d48109381420cd82f7403",
+      "url_list": [
+        "https://p16-sign-sg.tiktokcdn.com/tos-alisg-v-2774/13d12608283d48109381420cd82f7403~100x100.jpeg?lk3s=08d74b56&x-expires=1732656955&x-signature=qoRY31w40%2Fj%2BKT64gthAbDQuAfg%3D"
+      ],
+      "url_prefix": null,
+      "width": 720
+    },
+    "duration": 60,
+    "external_song_info": null,
+    "extra": "{\"amplitude_peak\":0.97009987,\"beats\":{\"audio_effect_onset\":\"https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-v-2774/543f352ee8bd4038a9d82447b378b2f1?lk3s=08d74b56\\u0026x-expires=1732656955\\u0026x-signature=W155PXJs2W7xpX3f2e7U%2FkeV0rc%3D\",\"beats_tracker\":\"https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-v-2774/859a57e4064249f09f763d5179dc6e19?lk3s=08d74b56\\u0026x-expires=1732656955\\u0026x-signature=nBB5UcPWv%2FlbltfHqzLg6XPhER0%3D\",\"energy_trace\":\"https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-v-2774/4977a388c37d41998a8f704176a05719?lk3s=08d74b56\\u0026x-expires=1732656955\\u0026x-signature=5St8sbSjOBMSLaSTCMwLuIUJ0h4%3D\",\"merged_beats\":\"https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-v-2774/49d43db2d49c4a9ab198cb76eafb37ad?lk3s=08d74b56\\u0026x-expires=1732656955\\u0026x-signature=bqb7gBPmtFhEuQ7DZqc2Wmj8zNs%3D\"},\"loudness_lufs\":-9.540354}",
+    "id": 7090803692152031234,
+    "id_str": "7090803692152031234",
+    "is_original": false,
+    "offline_desc": "This song can not play offline",
+    "play_url": { "height": 720, "uri": "", "url_list": [], "url_prefix": null, "width": 720 },
+    "source_platform": 10033,
+    "status": 1,
+    "title": "Happy New Year (Remake)",
+    "user_count": 78426,
+    "region_hint": "US",
+    "scraped_at_hint": "2025-11-10T22:00:00Z"
+  }
+]
